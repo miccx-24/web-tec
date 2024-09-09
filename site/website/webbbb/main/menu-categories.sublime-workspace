@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"f",
+				"font-family\tproperty"
+			],
+			[
+				"s",
+				"stdout"
+			],
+			[
+				"p",
+				"process"
+			],
+			[
+				"l",
+				"let"
+			],
+			[
+				"pl",
+				"Please"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"c",
+				"cellspacing\tAttr"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"at",
+				"autocomplete\tAttr"
+			],
+			[
+				"lastn",
+				"LastName"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"la",
+				"last"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"padding-",
+				"padding-left\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"let n=5;",
+			"*",
+			"console.log();"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture34/after/index.html",
+		"/C/Users/USER/web-tec/site/website/nav-bar/after/about.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/DEV/preparation.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/Nestedlist.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/HTML_LEVEL_2/tables.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/newpage.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/list.html",
+		"/C/xampp/htdocs/kk.html",
+		"/C/xampp/htdocs/pascal.php",
+		"/C/xampp/htdocs/db/group.php",
+		"/C/xampp/htdocs/db/grup a web.html",
+		"/C/xampp/htdocs/validate.php",
+		"/C/Users/USER/web-tec/site/website/nav-bar/after/css/styles.css",
+		"/C/Users/USER/web-tec/site/website/nav-bar/after/index.html",
+		"/C/Users/USER/OneDrive/Desktop/1.2/Web Technoligies(HDS112)/Reservation-form-with-php-master/style.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture38/after/css/styles.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/HTML_LEVEL_2/hotel.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/styles.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture38/after/single-category.html",
+		"/C/Users/USER/web-tec/site/website/nav-bar/after/single-category.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/groupass.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/validate.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/formSubmit.php",
+		"/C/Users/USER/OneDrive/Desktop/web design/grp.php",
+		"/C/Users/USER/web-tec/site/website/nav-bar/after/menu-categories.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture37/after/css/styles.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture36/after/index.html",
+		"/C/Users/USER/web-tec/site/website/nav-bar/after/css/bootstrap.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture36/after/css/styles.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture37/after/index.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture35/after/css/styles.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture35/after/index.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture34/after/css/styles.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture33/after/css/styles.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture32/after/css/styles.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture33/after/index.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture32/after/index.html",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture31/after/css/bootstrap.css",
+		"/C/Users/USER/OneDrive/Desktop/web design/full stack/fullstack-course4-master/examples/Lecture31/after/js/bootstrap.js",
+		"/C/Users/USER/web-tec/site/website/ground-rules-and-setup-overview/after/css/styles.css",
+		"/C/Users/USER/web-tec/site/website/ground-rules-and-setup-overview/before/index.html",
+		"/C/Users/USER/web-tec/site/website/ground-rules-and-setup-overview/after/index.html",
+		"/C/Users/USER/web-tec/site/website/ground-rules-and-setup-overview/before/css/styles.css",
+		"/C/Users/USER/web-tec/site/javascript/array.html",
+		"/C/Users/USER/web-tec/site/CSS/bootstrap/css/styles.css",
+		"/C/Users/USER/web-tec/site/CSS/bootstrap/grid-before.html",
+		"/C/Users/USER/web-tec/site/CSS/bootstrap intro/js/script.js",
+		"/C/Users/USER/web-tec/site/CSS/bootstrap intro/index.html",
+		"/C/Users/USER/web-tec/site/CSS/boot/index.html",
+		"/C/Users/USER/web-tec/site/CSS/positioning.html",
+		"/C/Users/USER/web-tec/site/CSS/media-queries.html",
+		"/C/Users/USER/web-tec/site/CSS/responsive.html",
+		"/C/Users/USER/web-tec/site/CSS/background.html",
+		"/C/Users/USER/web-tec/site/CSS/floating.html",
+		"/C/Users/USER/web-tec/site/CSS/two-column.html",
+		"/C/Users/USER/web-tec/site/CSS/box-model.html",
+		"/C/Users/USER/web-tec/site/CSS/styling-text.html",
+		"/C/Users/USER/web-tec/site/CSS/font-size.html",
+		"/C/Users/USER/web-tec/site/CSS/external.css",
+		"/C/Users/USER/web-tec/site/CSS/specificity.html",
+		"/C/Users/USER/web-tec/site/CSS/origin.html",
+		"/C/Users/USER/web-tec/site/CSS/inheritance.html",
+		"/C/Users/USER/web-tec/site/CSS/style.css",
+		"/C/Users/USER/web-tec/site/CSS/style-placement.html",
+		"/C/Users/USER/web-tec/site/CSS/pseudo-selectors.html",
+		"/C/Users/USER/web-tec/site/child-selector-before-after.html",
+		"/C/Users/USER/web-tec/site/CSS/descendant-selector-after.html",
+		"/C/Users/USER/web-tec/site/element-with-class-before.html",
+		"/C/Users/USER/web-tec/site/css syntax.html",
+		"/C/Users/USER/web-tec/site/CSS/simple-selectors.html",
+		"/C/Users/USER/web-tec/site/display images.html",
+		"/C/Users/USER/web-tec/site/links external.html",
+		"/C/Users/USER/web-tec/site/same directory.html",
+		"/C/Users/USER/web-tec/site/links same page.html",
+		"/C/Users/USER/web-tec/site/links internal.html",
+		"/C/Users/USER/web-tec/site/html-entities after.html",
+		"/C/Users/USER/web-tec/site/html-entities before.html",
+		"/C/Users/USER/web-tec/site/unordered list before.html",
+		"/C/Users/USER/web-tec/site/unordered list after.html",
+		"/C/Users/USER/web-tec/site/semantic heading.html",
+		"/C/Users/USER/web-tec/site/ordered list after.html",
+		"/C/Users/USER/web-tec/site/ordered list before.html",
+		"/C/Users/USER/web-tec/site/div and span.html",
+		"/C/Users/USER/web-tec/site/headings.html",
+		"/C/Users/USER/web-tec/site/hotel.html",
+		"/C/Users/USER/web-tec/site/index.html",
+		"/C/Users/USER/web-tec/site/doc-structure-before.html",
+		"/C/Users/USER/web-tec/site/structured with styles.html",
+		"/C/Users/USER/OneDrive/Desktop/workspace",
+		"/C/Users/USER/OneDrive/Desktop/3u Files/fullstack-course4-master.uB5ricw9.zip.part"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "menu-categories.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
